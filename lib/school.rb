@@ -5,4 +5,7 @@ class School
     @school = school_name
   end
 
+  def initialized
+    @school
+  end
 end
