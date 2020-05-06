@@ -1,5 +1,5 @@
 # code here!
 class School
-  @school
+  @school = School.new
 
 end
