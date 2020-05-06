@@ -4,7 +4,7 @@ class School
 
   def initialize(school)
     @school = school
-    @school = []
+    puts []
   end
 
   def initialize
