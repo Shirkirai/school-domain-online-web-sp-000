@@ -6,6 +6,8 @@ class School
     @roster = {}
   end
 
+  def school_name
+    @school
 
   def add_student(student_name, grade)
     @roster[:grade] = []
