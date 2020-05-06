@@ -14,6 +14,6 @@ class School
   end
 
   def roster
-    @roster.length = 0
+    @roster = {}
   end
 end
