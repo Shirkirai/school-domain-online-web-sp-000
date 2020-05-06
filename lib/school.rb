@@ -34,6 +34,5 @@ class School
       students.sort << @roster
     end
     
-    end
   end
 end
