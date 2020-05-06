@@ -20,6 +20,8 @@ class School
     @add_student = @roster
   end
 
+  def grade
+  end
 
 
 end
