@@ -7,5 +7,8 @@ class School
     @school = []
   end
 
+  def initialize
+    @school
+  end
 
 end
