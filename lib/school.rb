@@ -31,4 +31,5 @@ class School
 
   def sort
     @roster.values.sort
+  end
 end
