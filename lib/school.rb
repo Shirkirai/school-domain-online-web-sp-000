@@ -6,9 +6,4 @@ class School
     @school = school
   end
 
-  def initialize
-    @school
-    []
-  end
-
 end
