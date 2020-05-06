@@ -1,6 +1,6 @@
 # code here!
 class School
-  def school(school)
+  def school
     @school = school
   end
 
