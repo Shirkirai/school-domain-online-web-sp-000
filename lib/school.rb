@@ -21,7 +21,7 @@ class School
   end
 
   def grade(grade)
-    @grade = @roster.values
+    @grade = @roster.values if == grade
     @grade
   end
 
