@@ -32,4 +32,7 @@ class School
   def sort
     @roster.values.sort
   end
+
+  def sort
+    @roster
 end
