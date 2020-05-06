@@ -3,7 +3,7 @@ class School
 
 
   def initialize(school_name)
-    @school = school
+    @school = school_name
   end
 
 end
