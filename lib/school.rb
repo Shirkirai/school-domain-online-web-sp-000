@@ -26,4 +26,5 @@ class School
         students
     @grade
   end
+  end
 end
