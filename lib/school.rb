@@ -1,6 +1,6 @@
 # code here!
 class School
-  @school = School.new
+  @school = School.new(school)
 
   end
 
