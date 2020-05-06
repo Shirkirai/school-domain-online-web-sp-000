@@ -8,4 +8,7 @@ class School
   def initialized
     @school
   end
+
+  def roster(roster)
+    {}
 end
