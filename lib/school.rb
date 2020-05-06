@@ -21,7 +21,7 @@ class School
   end
 
   def grade(grade)
-    @grade = @roster.keys
+    @grade = @roster.values
     @grade
   end
 
