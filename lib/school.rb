@@ -19,10 +19,11 @@ class School
 
   def add_student(student_name, grade)
     @roster[:grade] = []
+    @add_student = @roster
   end
 
   def add_student
-    @roster
+    @
   end
 
 end
