@@ -6,10 +6,6 @@ class School
     @roster = {}
   end
 
-  def initialized
-    @school
-    @roster
-  end
 
 
 
