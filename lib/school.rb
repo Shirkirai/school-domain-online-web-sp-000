@@ -24,7 +24,6 @@ class School
     @grade = @roster.each do |grades, students|
       if grades == grade
         students
-      end
     @grade
   end
 
