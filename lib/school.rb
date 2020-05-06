@@ -28,4 +28,7 @@ class School
     end
     @grade
   end
+
+  def sort
+    @roster.values.sort
 end
