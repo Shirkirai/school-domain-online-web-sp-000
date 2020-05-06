@@ -5,7 +5,7 @@ class School
     @school = school_name
   end
 
-  def initialize
+  def initialized
     @school
   end
 
