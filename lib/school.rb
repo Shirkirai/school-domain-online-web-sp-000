@@ -17,5 +17,5 @@ class School
     @roster = {}
   end
 
-  def add_student(student_name, num)
+  def add_student(student_name, grade)
 end
