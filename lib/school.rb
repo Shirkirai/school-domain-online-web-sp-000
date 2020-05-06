@@ -33,7 +33,7 @@ class School
     @roster.each do |grades, students|
       students.sort << @roster
     end
-    @roster
+    
     end
   end
 end
