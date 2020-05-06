@@ -30,6 +30,6 @@ class School
   end
 
   def sort
-    @roster.vsort
+    @roster.sort
   end
 end
