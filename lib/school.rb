@@ -20,4 +20,6 @@ class School
     @add_student = @roster
   end
 
+  
+
 end
