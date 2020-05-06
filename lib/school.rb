@@ -1,5 +1,7 @@
 # code here!
 class School
-  ROSTER = []
+  def school(school)
+    ROSTER = []
+    @school = school
 
 end
