@@ -19,8 +19,4 @@ class School
     @add_student = @roster
   end
 
-  def add_student
-    @add_student
-  end
-
 end
