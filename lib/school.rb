@@ -27,5 +27,5 @@ class School
     @grade
   end
 
-edn
+end
 end
